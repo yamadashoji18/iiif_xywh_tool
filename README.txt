@@ -1,0 +1,1 @@
+The iiif_xwywh_tool.html retrieves the xywh coordinates of any rectangles from the canvas on the specified manifest. The image of rectangle area is retrieved from the IIIF image server. 
